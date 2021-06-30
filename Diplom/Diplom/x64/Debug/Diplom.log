@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  Diplom.cpp
+c:\users\jabberwock\source\repos\diplom\diplom\init.h(11): warning C4005: TPRINTF: изменение макроопределения
+  c:\users\jabberwock\source\repos\diplom\diplom\init.h(2): note: см. предыдущее определение "TPRINTF"
+c:\users\jabberwock\source\repos\diplom\diplom\init.h(16): warning C4005: TFUNC: изменение макроопределения
+  c:\users\jabberwock\source\repos\diplom\diplom\init.h(3): note: см. предыдущее определение "TFUNC"
+c:\users\jabberwock\source\repos\diplom\diplom\diplom.cpp(29): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Map_drawing.h
+  Создание кода...
+Map_drawing.obj : error LNK2005: "int __cdecl map_drawing(void)" (?map_drawing@@YAHXZ) уже определен в Diplom.obj
+C:\Users\Jabberwock\source\repos\Diplom\x64\Debug\Diplom.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
